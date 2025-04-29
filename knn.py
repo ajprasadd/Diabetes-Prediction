@@ -27,7 +27,7 @@ BMI = st.number_input("BMI",min_value=10,max_value=50,value=30)
 
 Insulin = st.number_input("Insulin",min_value=0,max_value=1000,value=100)
 
-Diabetes_Pedigree = st.number_input("Diabetes Pedigree function" min_value=0.0,max_value=2.5,value=0.50)
+Diabetes_Pedigree = st.number_input("Diabetes Pedigree function", min_value=0.0,max_value=2.5,value=0.50)
 
 Age = st.number_input ("Age",min_value=18,max_value=100,value=30)
 
